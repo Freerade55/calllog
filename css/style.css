@@ -1,0 +1,87 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+}
+
+header a {
+
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+
+
+}
+
+header a:hover {
+
+    color: white;
+
+  
+}
+
+
+
+h1 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.table-main {
+    margin-top: 40px;
+}
+
+
+td a {
+    color: red;
+    text-decoration: none;
+}
+td a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.update {
+    color: blue;
+    text-decoration: none;
+}
+
+.update:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+
+h2 {
+    margin-top: 40px;
+    padding-left: 40px;
+}
+
+
+form {
+    padding-left: 40px;
+}
+
+form p{
+    margin-top: 10px;
+
+}
+form button{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 50px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    border: none
+}
+
+
+.line {
+    height: 2px;
+    background-color: black;
+}
