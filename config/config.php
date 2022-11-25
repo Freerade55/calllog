@@ -7,10 +7,10 @@
 class connectBd
 {
 
-    const HOSTNAME = 'localhost';
-    const USERNAME = 'u1817486_root';
-    const PASSWORD = 'HD123RUS';
-    const DATABASE = 'u1817486_calllog';
+    const HOSTNAME = '';
+    const USERNAME = '';
+    const PASSWORD = '';
+    const DATABASE = '';
 
 
     public static function connect()
